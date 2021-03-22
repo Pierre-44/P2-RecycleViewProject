@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecycleViewProject</string>
+    <string name="line1">Nom</string>
+    <string name="line2">Prenom</string>
+</resources>
